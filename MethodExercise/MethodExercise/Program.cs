@@ -29,6 +29,8 @@ namespace MethodExercise
             var yourBand = Console.ReadLine();
 
             Console.WriteLine($"My favorite band is {yourBand}");
+
         }
+
     }
 }
